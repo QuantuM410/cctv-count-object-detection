@@ -1,0 +1,35 @@
+<annotation>
+  <folder></folder>
+  <filename>007977.jpeg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>704</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>construction</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>380.2470703125</xmin>
+      <ymin>85.0458984375</ymin>
+      <xmax>392.99625873565674</xmax>
+      <ymax>108.22624206542969</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>construction</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>64.9951171875</xmin>
+      <ymin>68.046875</ymin>
+      <xmax>80.44867992401123</xmax>
+      <ymax>99.3403377532959</ymax>
+    </bndbox>
+  </object>
+</annotation>

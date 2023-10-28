@@ -1,0 +1,35 @@
+<annotation>
+  <folder></folder>
+  <filename>004975.jpeg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>704</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>vehicle</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>398.0</xmin>
+      <ymin>241.0</ymin>
+      <xmax>538.0</xmax>
+      <ymax>345.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vehicle</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>344.2333984375</xmin>
+      <ymin>52.619140625</ymin>
+      <xmax>352.3521375656128</xmax>
+      <ymax>60.061317920684814</ymax>
+    </bndbox>
+  </object>
+</annotation>
